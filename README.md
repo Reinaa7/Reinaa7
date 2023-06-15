@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Reinaa7
+- I'm a sofware eng. student.
+- 🌱 I’m currently learning web dev. c++ , java etc.
+- 
